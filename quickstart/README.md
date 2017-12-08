@@ -1,3 +1,13 @@
+## Notes 
+
+Online host met Heroku is niet gelukt. 
+
+Dit is de laatste online versie
+https://shrouded-cove-13677.herokuapp.com/
+Na verschillende errors opgelost te hebben ben ik hier op vast gelopen
+
+In deze repository staat een werkende offline versie van mijn project.
+
 project: # Quickstart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
